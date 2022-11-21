@@ -46,7 +46,7 @@
         android:justificationMode="inter_word"
         android:text="@string/here_is_a_place_that_you_can_meet_someone_new_you_can_looking_for_a_friend_or_partner_chat_with_person_match_with_you_after_that_you_can_go_to_best_destination_people_choose_enjoy"
         android:textColor="@color/white"
-        android:textSize="20sp"
+        android:textSize="18sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.493"
         app:layout_constraintStart_toStartOf="parent"
@@ -54,7 +54,7 @@
         tools:targetApi="o" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/btnGet"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="90dp"
